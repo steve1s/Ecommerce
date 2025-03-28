@@ -21,7 +21,7 @@
 ### Demo
 From shopping to basket, users can sort, search, and filter products. They can easily add items to their basket and update quantities as needed.
 
-https://github.com/alimhtsai/E_commerce/assets/48788292/9ec515bc-d29e-448e-a7c2-4869db533903
+https://github.com/steve1s/Ecommerce.git/assets/48788292/9ec515bc-d29e-448e-a7c2-4869db533903
 
 From basket to checkout, users can save a default address, select their preferred shipping method, review their order, and submit it. Once the order is submitted, the basket is automatically emptied. Additionally, users can view specific orders or review their entire order history. For demonstration purposes, we use the test credit card provided by Stripe to simulate a successful order.
 
@@ -32,7 +32,7 @@ https://github.com/alimhtsai/E_commerce/assets/48788292/b2772caa-2c50-45fc-baf9-
 ### Local build
 <b>Step 1. Clone the GitHub project to the local directory</b>
 
-`git clone https://github.com/alimhtsai/E_commerce.git`
+`git clone https://github.com/steve1s/Ecommerce.git`
 
 <b>Step2. Create a Stripe developer account</b>
 1. Go to offical Stripe website to register for a developer account to use the payment feature: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
